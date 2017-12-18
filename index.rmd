@@ -22,7 +22,7 @@ According to the Linear Regression analysis with almost all the predictor variab
 ---
 ```{r global_options, include=FALSE}
 knitr::opts_chunk$set(
-  echo = FALSE,
+  echo = TRUE,
   comment = NA,
   cache = FALSE,
   message = FALSE,
