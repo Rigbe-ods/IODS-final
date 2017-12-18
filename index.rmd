@@ -35,12 +35,12 @@ knitr::opts_chunk$set(
 + <span style="color:green">Can we predcit the final grades of students based on some of these factors ?</span>
 + Hypothesis : the previous grades will highly impact the final grade  (but am curious to see what other variables can be related to the grades and I believe different predictors are related differently to each subject)
 
-#2. A link to data wrangling script
+#2. A link to data wrangling script: [finalProj_wrangling](https://github.com/Rigbe-ods/IODS-final/blob/master/final_project_dataWrangling.r)
 
 #3. Description of data and its variables
 The data contains demographic, social and performance related information about students in two Portugese high schools. The variables in the dataset with their descriptions are shown below.
 
-![Variable descriptions](figure/variable_desc.jpg)
+![](figure/variable_desc.jpg)
 
 ## 4. Explorations of the variables of interest
 

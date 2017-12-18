@@ -1,5 +1,5 @@
 # IODS-final
-(figure/variable_desc.jpg)
+![](figure/cartoon.jpg)
 
 This is a repository for the open data science course final project.
 
